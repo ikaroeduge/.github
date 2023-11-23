@@ -20,7 +20,7 @@
 
 // Font.
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
+		family:				( Helvetica, sans-serif,'Source Sans Pro'),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		600,
@@ -31,7 +31,7 @@
 // Palette.
 	$palette: (
 		bg:					#242943,
-		bg-alt:				#2a2f4a,
+		bg-alt:				#263068,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),

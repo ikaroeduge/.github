@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Elements
+title: ᲔᲚᲔᲛᲔᲜᲢᲔᲑᲘ
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">ᲛᲐᲠᲢᲘᲕᲘ ᲙᲝᲜᲢᲔᲜᲢᲘ</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -45,7 +45,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">ᲔᲚᲔᲛᲔᲜᲢᲔᲑᲘ</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
@@ -63,7 +63,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
 <!-- Lists -->
-<h3>Lists</h3>
+<h3>ᲡᲘᲔᲑᲘ</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 
@@ -112,7 +112,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </div>
 
-<h4>Definition</h4>
+<h4>ᲓᲔᲤᲘᲜᲘᲪᲘᲔᲑᲘ</h4>
 <dl>
 	<dt>Item1</dt>
 	<dd>
@@ -128,7 +128,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	</dd>
 </dl>
 
-<h4>Actions</h4>
+<h4>ᲐᲥᲢᲘᲕᲝᲑᲔᲑᲘ</h4>
 <ul class="actions">
 	<li><a href="#" class="button special">Default</a></li>
 	<li><a href="#" class="button">Default</a></li>
@@ -169,7 +169,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
 
 <!-- Table -->
-<h3>Table</h3>
+<h3>ᲪᲮᲠᲘᲚᲘ</h3>
 
 <h4>Default</h4>
 <div class="table-wrapper">
@@ -217,7 +217,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	</table>
 </div>
 
-<h4>Alternate</h4>
+<h4>ᲐᲚᲢᲔᲠᲜᲐᲢᲘᲕᲐ</h4>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -267,7 +267,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <div class="6u$ 12u$(medium)">
 
 <!-- Buttons -->
-<h3>Buttons</h3>
+<h3>ᲦᲘᲚᲐᲙᲔᲑᲘ</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
 	<li><a href="#" class="button">Default</a></li>
