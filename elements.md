@@ -3,6 +3,11 @@ layout: page
 title: ᲔᲚᲔᲛᲔᲜᲢᲔᲑᲘ
 image: assets/images/pic01.jpg
 nav-menu: false
+show_tile:  false
+---
+
+<!-- Main -->
+<div id="main" class="alt">
 ---
 
 <!-- Main -->

@@ -9,79 +9,21 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>ᲩᲕᲔᲜᲘ ᲡᲙᲝᲚᲘᲡ ᲒᲐᲛᲝᲠᲩᲔᲣᲚᲘ ᲛᲝᲛᲔᲜᲢᲔᲑᲘ</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>ᲑᲐᲕᲨᲕᲔᲑᲘᲡ ᲡᲘᲮᲐᲠᲣᲚᲘ</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
+			<header class="major">
+				<h2>ᲩᲕᲔᲜᲘ ᲡᲙᲝᲚᲘᲡ ᲒᲐᲛᲝᲠᲩᲔᲣᲚᲘ ᲛᲝᲛᲔᲜᲢᲔᲑᲘ</h2>
+			</header>
+			<ul>
+				<li>❤️‍🩹🍂ბედნიერება ვარდისუბნის საჯარო სკოლაში არის.💝 🌿</li>
+				<li>ამ სკოლაში ჩვენი შვილების ბედნიერი დღეებისთვის ზრუნავენ</li>
+				<li>ამ სკოლაში ჩვენი შვილების ცოდნისთვის ზრუნავენ</li>
+				<li>ამ სკოლაში ჩვენი შვილების მომავალზე ზრუნავენ</li>
+			</ul>
+			<p>თვითვეული პედაგოგის შრომა ძალიან დიდი არის და მათი ამაგი იმდენად დიდი რომ,ძნელია სიტყვით გადმოვცეთ.</p>
+			<p>ყველა ბავშვს ვუსურვებ რომ ამ სკოლის დიდებული ამაგი დაეფასებინოთ თავიანთი სწავლით და წარმატებული და ლამაზი მომავლით.🍂❣️</p>
+			<p>ამ სკოლაში წარმატებული მოსწავლეები იზრდებიან,🍂რადგან ამ სკოლაში დიდებული ადამიანები გადმოსცემენ ჩვენს შვილებს ცოდნას და უღრმესი მადლობა მათ.</p>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>ᲑᲘᲑᲚᲘᲝᲗᲔᲙᲐᲨᲘ</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>ᲓᲐ ᲐᲡᲔ ᲨᲔᲛᲓᲔᲒ</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
 </div>
